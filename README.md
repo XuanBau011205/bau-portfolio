@@ -8,7 +8,7 @@ Interested in Embedded Firmware, IoT, Industrial IoT (IIoT), and Edge AI.
 
 ### 1. IoT Telemetry System
 
-**Role:** Team Leader (3 members) — ESP32 Firmware & Data Protocol Design
+**Role:** Team Leader (3 members) - ESP32 Firmware & Data Protocol Design
 
 **Technologies:** ESP32-S3, C/C++, PlatformIO, MQTT, Spring Boot, PostgreSQL.
 
@@ -20,12 +20,12 @@ Interested in Embedded Firmware, IoT, Industrial IoT (IIoT), and Edge AI.
 - Developed a Spring Boot and PostgreSQL backend for telemetry storage and REST API integration.
 
 **Repositories:**
-- [Firmware – IoT Telemetry](https://github.com/XuanBau011205/IoT-Telemetry)
-- [Backend – IoT Telemetry Backend](https://github.com/XuanBau011205/IoT-TelemetryBackend)
+- [Firmware -  IoT Telemetry](https://github.com/XuanBau011205/IoT-Telemetry)
+- [Backend -  IoT Telemetry Backend](https://github.com/XuanBau011205/IoT-TelemetryBackend)
 
 ### 2. Single-lead Battery-powered ECG (P05)
 
-**Status:** In Progress — Expected completion: December 2026
+**Status:** In Progress - Expected completion: December 2026
 
 **Role:** Team Leader — Schematic Design & Firmware Development
 
