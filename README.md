@@ -4,6 +4,8 @@ Electronics and Telecommunications Engineering Student at Hanoi University of Sc
 
 Interested in Embedded Firmware, IoT, Industrial IoT (IIoT), and Edge AI.
 
+[Tiếng Việt](README.vi.md)
+
 ## Projects
 
 ### 1. IoT Telemetry System
